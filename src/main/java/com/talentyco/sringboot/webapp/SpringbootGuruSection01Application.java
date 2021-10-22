@@ -1,4 +1,4 @@
-package cl.plaxer.sringboot.webapp;
+package com.talentyco.sringboot.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
